@@ -58,12 +58,7 @@ The analysis focuses on understanding Netflix’s content strategy and identifyi
 - Use keyword-based categorization to improve content discoverability
 
 ---
-
-certifications/
- ├── deloitte-data-analytics.pdf
- ├── bcg-data-for-decision-makers.pdf
- └── goldman-sachs-operations.pdf
-
+## 📂 Project
 - Deloitte Australia – Data Analytics Job Simulation
 - BCG X - Data for decision makers
 - Goldman Sachs - Operations
