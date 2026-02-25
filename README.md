@@ -17,6 +17,56 @@ I am passionate about using data to identify trends, improve processes, and supp
 - Looker (SaaS), Open AI Chat GPT, Claude, Bard, Zoho Analytics AI
 
 ## 📂 Project
+# Machine Downtime Analysis – Tableau
+
+## 📌 Project Overview
+This project analyzes factory machine downtime data to help a client understand where machine breakdowns occur most frequently and which machine types contribute most to downtime.
+The analysis was performed using Tableau with preprocessed data prepared in Excel.
+
+---
+
+## ❓ Client Questions
+1. Which factory location experienced the highest machine breakdowns?
+2. Which machine types broke down most frequently at that location?
+
+---
+
+## 🛠️ Approach & Visualization
+- Imported factory location and machine downtime data into Tableau  
+- Used **Sum(Unhealthy)** as the primary measure to quantify machine breakdowns  
+- Created bar charts with:
+  - **Columns:** Factory Location  
+  - **Rows:** Downtime (Sum of Unhealthy)  
+- Designed three interactive dashboards:
+  - **Downtime per Factory**
+  - **Downtime per Device Type**
+  - **Downtime per Factory vs Device Type**
+
+---
+
+## 📊 Dashboards
+- **Downtime per Factory:** Identifies factory locations with the highest machine downtime  
+- **Downtime per Device Type:** Highlights machine types that break down most frequently  
+- **Factory vs Device Type:** Compares downtime across factories and machine categories
+
+---
+
+## ✅ Key Outcomes
+- Identified the factory location with the highest overall machine downtime  
+- Determined the specific machine types contributing most to breakdowns in that location  
+- Provided actionable insights to support maintenance prioritization and operational efficiency improvements
+
+---
+
+## 🧰 Tools Used
+- Tableau (Data Visualization & Dashboards)
+- Excel (Data Cleaning & Preparation)
+
+---
+
+## 📁 Files Included
+- Tableau dashboard screenshots
+  
 # 🎬 Netflix Movies & TV Shows Data Analysis (SQL)
 
 ## 📌 Project Overview
