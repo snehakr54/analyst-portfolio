@@ -1,4 +1,4 @@
-# analyst-portfolio - Sneha
+# Analyst - Portfolio - Sneha
 
 ## 👋 About Me
 Detail-oriented HR Operations professional transitioning into an entry-level Analyst role.
