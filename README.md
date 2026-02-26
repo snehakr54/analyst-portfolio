@@ -17,7 +17,7 @@ I am passionate about using data to identify trends, improve processes, and supp
 - Looker (SaaS), Open AI Chat GPT, Claude, Bard, Zoho Analytics AI
 
 ## 📂 Project
-# Digital Ad Campaign Performance Analysis
+# Digital Ad Campaign Performance Analysis (Excel)
 
 ## 📌 Project Overview
 This project analyzes a recent digital advertising campaign to evaluate campaign performance across messaging styles and marketing channels.
@@ -73,7 +73,7 @@ The analysis was performed using Excel and Pivot Tables to compare engagement, v
 - Excel analysis file
 - Pivot table summaries
   
-# Machine Downtime Analysis – Tableau
+# Machine Downtime Analysis (Tableau)
 
 ## 📌 Project Overview
 This project analyzes factory machine downtime data to help a client understand where machine breakdowns occur most frequently and which machine types contribute most to downtime.
