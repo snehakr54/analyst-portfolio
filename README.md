@@ -17,6 +17,62 @@ I am passionate about using data to identify trends, improve processes, and supp
 - Looker (SaaS), Open AI Chat GPT, Claude, Bard, Zoho Analytics AI
 
 ## 📂 Project
+# Digital Ad Campaign Performance Analysis
+
+## 📌 Project Overview
+This project analyzes a recent digital advertising campaign to evaluate campaign performance across messaging styles and marketing channels.
+The goal was to generate insights that guide smarter marketing investment decisions.
+The analysis was performed using Excel and Pivot Tables to compare engagement, value delivery, and new customer acquisition.
+
+---
+
+## ❓ Client Questions
+1. Which campaign and channel combination delivered the most value?
+2. What drove engagement from new customers?
+3. Where should marketing investment focus next quarter and why?
+
+---
+
+## 📢 Campaign Details
+- **Campaign A:** Informal, conversational messaging tone  
+- **Campaign B:** Sales-focused, promotional messaging tone  
+
+**Marketing Channels Used:**
+- Email  
+- Instagram  
+- Website Banner  
+
+---
+
+## 🛠️ Approach & Analysis
+- Cleaned and structured campaign performance data in Excel  
+- Used **Pivot Tables** to analyze performance by:
+  - Campaign type
+  - Marketing channel
+  - Customer engagement
+  - New customer acquisition
+- Compared messaging tone effectiveness across channels  
+- Evaluated channel-wise performance to identify high-value combinations
+
+---
+
+## 📊 Key Insights
+- Identified the campaign and channel combination that delivered the highest value  
+- Determined which messaging tone drove stronger engagement from new customers  
+- Highlighted underperforming channels and high-impact marketing opportunities  
+
+---
+
+## 🧰 Tools Used
+- Excel (Data Cleaning, Pivot Tables, Analysis)
+- Spreadsheet-based reporting
+
+---
+
+## 📁 Files Included
+- Excel analysis file
+- Pivot table summaries
+  
 # Machine Downtime Analysis – Tableau
 
 ## 📌 Project Overview
