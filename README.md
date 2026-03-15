@@ -1,25 +1,105 @@
 # Analyst-Portfolio-Sneha
 
 ## 👋 About Me
-Detail-oriented HR Operations professional transitioning into an entry-level Analyst role.
-Strong experience in Excel-based data analysis, working with structured datasets, and delivering insights through hands-on projects using Excel, SQL (basics), and Tableau.
-With a background in process-oriented environments, I have developed strong skills in data validation, reporting accuracy, and analytical problem-solving. 
-I am passionate about using data to identify trends, improve processes, and support informed business decisions.
+
+Data Analyst with hands-on experience turning raw datasets into clear, actionable insights.
+I specialise in end-to-end analysis — from data cleaning and exploratory analysis to dashboards, visualisations, and executive-ready presentations.
+
+My background in HR Operations gave me a strong foundation in structured thinking, reporting accuracy, and process improvement. I now apply those skills to data problems: identifying trends, measuring performance, and helping teams make better decisions with confidence.
+
+Proficient in Python (pandas), Excel, SQL, Tableau, and PowerPoint. I enjoy working with messy real-world data and delivering outputs that non-technical stakeholders can act on.
+
+---
 
 ## 🛠 Skills
-- Excel (Pivot Tables, XLOOKUP, Power Query)
-- SQL (Joins, CTEs, Subqueries)
-- Power BI / Tableau
-- Python (basic)
-- R (basic)
-- Data Cleaning & Validation
-- Business Analysis & Reporting
-- Looker (SaaS), Open AI Chat GPT, Claude, Bard, Zoho Analytics AI
 
-## 📂 Project
+* **Analysis:** Exploratory Data Analysis, Business Reporting, Data Cleaning & Validation
+* **Excel:** Pivot Tables, XLOOKUP, Power Query, Dashboard Design
+* **Python:** pandas, data wrangling, summary statistics
+* **SQL:** Joins, CTEs, Subqueries, aggregations
+* **Visualisation:** Tableau, Power BI, Excel Charts
+* **Other:** Python (basic), R (basic), Looker (SaaS), OpenAI ChatGPT, Claude, Zoho Analytics AI
+
+---
+
+## 📂 Projects
+
+---
+
+# Superstore Sales Analysis (Python · Excel · PowerPoint)
+
+## 📌 Project Overview
+
+A complete end-to-end data analysis project — from raw CSV to a business-ready Excel dashboard and executive presentation.
+Analysed 9,800 rows of US retail sales data (2015–2018) to answer 8 business questions, identify growth opportunities, and deliver strategic recommendations.
+
+---
+
+## ❓ Business Questions Answered
+
+1. Which region generates the most sales — and is it growing?
+2. What are the top and bottom-performing sub-categories?
+3. Is there a seasonal sales pattern across the year?
+4. Do Corporate customers spend more per order than Consumer customers?
+5. Which ship mode correlates with higher order values?
+6. Who are the top 10 customers by revenue — and how concentrated is it?
+7. Is the business growing year over year — and which category drives it?
+8. Which states have untapped sales potential?
+
+---
+
+## 🛠️ Approach & Analysis
+
+* Loaded and inspected 9,800-row dataset across 18 columns (orders, customers, products, regions, sales)
+* Cleaned data using Python (pandas): fixed date types, resolved null Postal Codes, stripped whitespace, derived `Days to Ship` column — retained 100% of records
+* Built summary statistics across 4 dimensions: Region, Category, Segment, Ship Mode
+* Identified year-over-year growth trends, seasonal patterns, and top performers
+* Designed an Excel dashboard with live cross-sheet formulas and 5 embedded charts
+* Delivered a 10-slide PowerPoint presentation with 4 strategic recommendations
+
+---
+
+## 📊 Key Findings
+
+* **$2.26M** total sales across 4 years — growing **51%** from 2015 to 2018
+* **West region** leads at $710K with +107% growth; **South** grew fastest relative to its size (+94%) — best expansion opportunity
+* **Technology** drives the highest avg. order value ($456 vs $231 overall) despite fewer orders
+* **Q4 (Nov–Dec) spikes every year** — clear seasonality; February is consistently the weakest month
+* **Top 10 customers** account for a disproportionate share of revenue — concentration risk to monitor
+
+---
+
+## ✅ Strategic Recommendations
+
+| # | Recommendation |
+|---|---|
+| 1 | Protect West & East — prioritise Q4 inventory and account coverage |
+| 2 | Cross-sell Technology with Furniture/Office Supplies orders to lift average order value |
+| 3 | Invest in South region; analyse state-level data to find top expansion markets |
+| 4 | Boost marketing Oct–Nov; run February promotions to offset the seasonal lull |
+
+---
+
+## 🧰 Tools Used
+
+* Python · pandas (data cleaning & EDA)
+* Excel (Pivot Tables, Dashboard, 5 charts, KPI cards)
+* PowerPoint (10-slide executive presentation)
+
+---
+
+## 📁 Files Included
+
+* Cleaned dataset (Excel)
+* Excel dashboard with 5 charts and 4 KPI cards
+* 10-slide PowerPoint presentation
+
+---
+
 # Digital Ad Campaign Performance Analysis (Excel)
 
 ## 📌 Project Overview
+
 This project analyzes a recent digital advertising campaign to evaluate campaign performance across messaging styles and marketing channels.
 The goal was to generate insights that guide smarter marketing investment decisions.
 The analysis was performed using Excel and Pivot Tables to compare engagement, value delivery, and new customer acquisition.
@@ -27,6 +107,7 @@ The analysis was performed using Excel and Pivot Tables to compare engagement, v
 ---
 
 ## ❓ Client Questions
+
 1. Which campaign and channel combination delivered the most value?
 2. What drove engagement from new customers?
 3. Where should marketing investment focus next quarter and why?
@@ -34,141 +115,115 @@ The analysis was performed using Excel and Pivot Tables to compare engagement, v
 ---
 
 ## 📢 Campaign Details
-- **Campaign A:** Informal, conversational messaging tone  
-- **Campaign B:** Sales-focused, promotional messaging tone  
+
+* **Campaign A:** Informal, conversational messaging tone
+* **Campaign B:** Sales-focused, promotional messaging tone
 
 **Marketing Channels Used:**
-- Email  
-- Instagram  
-- Website Banner  
+* Email
+* Instagram
+* Website Banner
 
 ---
 
 ## 🛠️ Approach & Analysis
-- Cleaned and structured campaign performance data in Excel  
-- Used **Pivot Tables** to analyze performance by:
-  - Campaign type
-  - Marketing channel
-  - Customer engagement
-  - New customer acquisition
-- Compared messaging tone effectiveness across channels  
-- Evaluated channel-wise performance to identify high-value combinations
+
+* Cleaned and structured campaign performance data in Excel
+* Used **Pivot Tables** to analyse performance by campaign type, marketing channel, customer engagement, and new customer acquisition
+* Compared messaging tone effectiveness across channels
+* Evaluated channel-wise performance to identify high-value combinations
 
 ---
 
 ## 📊 Key Insights
-- Identified the campaign and channel combination that delivered the highest value  
-- Determined which messaging tone drove stronger engagement from new customers  
-- Highlighted underperforming channels and high-impact marketing opportunities  
+
+* Identified the campaign and channel combination that delivered the highest value
+* Determined which messaging tone drove stronger engagement from new customers
+* Highlighted underperforming channels and high-impact marketing opportunities
 
 ---
 
 ## 🧰 Tools Used
-- Excel (Data Cleaning, Pivot Tables, Analysis)
-- Spreadsheet-based reporting
+
+* Excel (Data Cleaning, Pivot Tables, Analysis)
 
 ---
 
 ## 📁 Files Included
-- Excel analysis file
-- Pivot table summaries
-  
+
+* Excel analysis file
+* Pivot table summaries
+
+---
+
 # Machine Downtime Analysis (Tableau)
 
 ## 📌 Project Overview
-This project analyzes factory machine downtime data to help a client understand where machine breakdowns occur most frequently and which machine types contribute most to downtime.
+
+This project analyses factory machine downtime data to help a client understand where machine breakdowns occur most frequently and which machine types contribute most to downtime.
 The analysis was performed using Tableau with preprocessed data prepared in Excel.
 
 ---
 
 ## ❓ Client Questions
+
 1. Which factory location experienced the highest machine breakdowns?
 2. Which machine types broke down most frequently at that location?
 
 ---
 
-## 🛠️ Approach & Visualization
-- Imported factory location and machine downtime data into Tableau  
-- Used **Sum(Unhealthy)** as the primary measure to quantify machine breakdowns  
-- Created bar charts with:
-  - **Columns:** Factory Location  
-  - **Rows:** Downtime (Sum of Unhealthy)  
-- Designed three interactive dashboards:
-  - **Downtime per Factory**
-  - **Downtime per Device Type**
-  - **Downtime per Factory vs Device Type**
+## 🛠️ Approach & Visualisation
+
+* Imported factory location and machine downtime data into Tableau
+* Used **Sum(Unhealthy)** as the primary measure to quantify machine breakdowns
+* Created bar charts comparing downtime by factory location and device type
+* Designed three interactive dashboards:
+  + **Downtime per Factory**
+  + **Downtime per Device Type**
+  + **Downtime per Factory vs Device Type**
 
 ---
 
 ## 📊 Dashboards
-- **Downtime per Factory:** Identifies factory locations with the highest machine downtime  
-- **Downtime per Device Type:** Highlights machine types that break down most frequently  
-- **Factory vs Device Type:** Compares downtime across factories and machine categories
+
+* **Downtime per Factory:** Identifies factory locations with the highest machine downtime
+* **Downtime per Device Type:** Highlights machine types that break down most frequently
+* **Factory vs Device Type:** Compares downtime across factories and machine categories
 
 ---
 
 ## ✅ Key Outcomes
-- Identified the factory location with the highest overall machine downtime  
-- Determined the specific machine types contributing most to breakdowns in that location  
-- Provided actionable insights to support maintenance prioritization and operational efficiency improvements
+
+* Identified the factory location with the highest overall machine downtime
+* Determined the specific machine types contributing most to breakdowns at that location
+* Provided actionable insights to support maintenance prioritisation and operational efficiency
 
 ---
 
 ## 🧰 Tools Used
-- Tableau (Data Visualization & Dashboards)
-- Excel (Data Cleaning & Preparation)
+
+* Tableau (Data Visualisation & Dashboards)
+* Excel (Data Cleaning & Preparation)
 
 ---
 
 ## 📁 Files Included
-- Tableau dashboard screenshots
-  
-# 🎬 Netflix Movies & TV Shows Data Analysis (SQL)
 
-## 📌 Project Overview
-This project involves a comprehensive analysis of Netflix’s Movies and TV Shows dataset using SQL.
-The objective is to extract meaningful insights and answer key business questions related to content distribution, ratings, release trends, and regional availability.
-The analysis focuses on understanding Netflix’s content strategy and identifying patterns that can support data-driven decision-making.
+* Tableau dashboard screenshots
 
 ---
 
-## 🎯 Objectives
-- Analyze the distribution of content types (Movies vs TV Shows)
-- Identify the most common ratings for Movies and TV Shows
-- Analyze content trends based on release year
-- Examine country-wise content availability
-- Evaluate content duration patterns
-- Categorize and filter content based on keywords and specific criteria
-
----
-
-## 🛠 Tools & Technologies
-- SQL (Data querying and analysis)
-- Relational Database (Structured dataset)
-- GitHub (Version control & documentation)
-
----
-
-## 📊 Analysis Approach
-- Performed data filtering, aggregation, and grouping using SQL queries
-- Used `GROUP BY`, `COUNT`, `ORDER BY`, `WHERE`, and string functions
-- Analyzed structured datasets to uncover trends and patterns
-- Segmented data by content type, rating, country, year, and duration
-
----
-
-## 💡 Business Recommendations
-- Focus on producing content in high-performing genres and ratings
-- Expand content offerings in regions showing strong growth
-- Optimize content duration based on viewer engagement patterns
-- Use keyword-based categorization to improve content discoverability
-
----
 ## 📂 Certificates
-- Deloitte Australia – Data Analytics Job Simulation
-- BCG X - Data for decision makers
-- Goldman Sachs - Operations
+
+* Deloitte Australia – Data Analytics Job Simulation
+* BCG X – Data for Decision Makers
+* Goldman Sachs – Operations
+
+---
 
 ## 📫 Contact
-- LinkedIn: http://www.linkedin.com/in/snehagupta361
-- Email: snehaguptakr70@gmail.com
+
+* LinkedIn: http://www.linkedin.com/in/snehagupta361
+* Email: snehaguptakr70@gmail.com
+
+
