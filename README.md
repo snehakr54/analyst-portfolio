@@ -7,7 +7,7 @@ I specialise in end-to-end analysis — from data cleaning and exploratory analy
 
 My background in HR Operations gave me a strong foundation in structured thinking, reporting accuracy, and process improvement. I now apply those skills to data problems: identifying trends, measuring performance, and helping teams make better decisions with confidence.
 
-Proficient in Python (pandas), Excel, SQL, Tableau, and PowerPoint. I enjoy working with messy real-world data and delivering outputs that non-technical stakeholders can act on.
+Proficient in Excel, SQL, Tableau, and PowerPoint. I enjoy working with messy real-world data and delivering outputs that non-technical stakeholders can act on.
 
 ---
 
@@ -15,7 +15,6 @@ Proficient in Python (pandas), Excel, SQL, Tableau, and PowerPoint. I enjoy work
 
 * **Analysis:** Exploratory Data Analysis, Business Reporting, Data Cleaning & Validation
 * **Excel:** Pivot Tables, XLOOKUP, Power Query, Dashboard Design
-* **Python:** pandas, data wrangling, summary statistics
 * **SQL:** Joins, CTEs, Subqueries, aggregations
 * **Visualisation:** Tableau, Power BI, Excel Charts
 * **Other:** Python (basic), R (basic), Looker (SaaS), OpenAI ChatGPT, Claude, Zoho Analytics AI
@@ -26,7 +25,7 @@ Proficient in Python (pandas), Excel, SQL, Tableau, and PowerPoint. I enjoy work
 
 ---
 
-# Superstore Sales Analysis (Python · Excel · PowerPoint)
+# Superstore Sales Analysis (Excel · PowerPoint)
 
 ## 📌 Project Overview
 
@@ -50,9 +49,9 @@ Analysed 9,800 rows of US retail sales data (2015–2018) to answer 8 business q
 
 ## 🛠️ Approach & Analysis
 
-* Loaded and inspected 9,800-row dataset across 18 columns (orders, customers, products, regions, sales)
-* Cleaned data using Python (pandas): fixed date types, resolved null Postal Codes, stripped whitespace, derived `Days to Ship` column — retained 100% of records
-* Built summary statistics across 4 dimensions: Region, Category, Segment, Ship Mode
+* Loaded and inspected a 9,800-row dataset across 18 columns (orders, customers, products, regions, sales)
+* Cleaned data in Excel: fixed date types, resolved 11 null Postal Codes, removed whitespace, derived `Days to Ship` column — retained 100% of records
+* Built summary tables across 4 dimensions: Region, Category, Segment, Ship Mode using Pivot Tables
 * Identified year-over-year growth trends, seasonal patterns, and top performers
 * Designed an Excel dashboard with live cross-sheet formulas and 5 embedded charts
 * Delivered a 10-slide PowerPoint presentation with 4 strategic recommendations
@@ -82,8 +81,7 @@ Analysed 9,800 rows of US retail sales data (2015–2018) to answer 8 business q
 
 ## 🧰 Tools Used
 
-* Python · pandas (data cleaning & EDA)
-* Excel (Pivot Tables, Dashboard, 5 charts, KPI cards)
+* Excel (Data Cleaning, Pivot Tables, Dashboard, 5 charts, KPI cards)
 * PowerPoint (10-slide executive presentation)
 
 ---
@@ -225,5 +223,3 @@ The analysis was performed using Tableau with preprocessed data prepared in Exce
 
 * LinkedIn: http://www.linkedin.com/in/snehagupta361
 * Email: snehaguptakr70@gmail.com
-
-
