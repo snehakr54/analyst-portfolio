@@ -42,7 +42,8 @@ I leverage data analysis and visualization to solve business problems and delive
 ---
 
 ## 📜 Certifications
-- Google Analytics for Beginners – Certified  
+- Google Analytics for Beginners – Certified
+- 🔗 Google Analytics: https://drive.google.com/file/d/17J3WL4Q0DjUcLBKkdcCvravYmTj_CRbG/view?usp=drivesdk
 
 ---
 
